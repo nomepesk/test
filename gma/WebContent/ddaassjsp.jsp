@@ -14,7 +14,7 @@
 <script type="text/javascript">
 
 var game_list=[],player_list=[],game_info_list=[];
-//검색한 게임 아이디 리스트,검색한 게임에서 내 위치,검색한 게임 자체 배
+//개새끼들아
 var global_name="";
 var global_targetid=-1;
 var global_perks;

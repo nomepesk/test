@@ -1,0 +1,153 @@
+@charset "UTF-8";
+
+
+
+    .next_n::after{
+    content: "";
+    display: block;
+    clear: both;
+    }
+    .hidden{
+    display: none;
+    }
+    
+
+     .left_side{
+       font-size: 35px;
+       white-space:nowrap;
+       display: flex;
+        align-items: center;
+    }  
+   .left_side a{font-size: 16px;
+      white-space:normal;
+      
+   }  
+    .top{
+        outline: 1px solid black;}
+    .game_main{
+        width: 60%;
+        height: 100%;float: left;
+        box-sizing: border-box;
+        border: 1px solid black;
+        position: relative;
+    }
+    
+    .game_main button{
+  	width: 64px;
+	height:7%;
+	box-sizing: border-box;
+    }
+    
+    .map {
+     position: relative;
+   background: url(https://s-lol-web.op.gg/images/icon/img-lol-map.svg) 0% 0% / 100% no-repeat;
+   width:70%;
+   height:515px;
+  
+    }
+    
+ .daas{
+ display: block;
+    width: 12px;
+    height: 12px;
+    background: rgb(118, 72, 15);
+    border-radius: 6px;
+    opacity: 0.8;
+    border: 1px solid rgb(51, 51, 51);
+    position: absolute;
+    margin-left: -6px;
+    margin-bottom: 6px;
+          }   
+    
+    
+    
+    .vks{
+    width:100%;
+    display: flex;
+    }
+    
+    .team{
+      width:15%;
+    }
+    .game_main_right_menu{
+        width: 40%;
+        height: 100%;float: right;
+        box-sizing: border-box;
+        border: 1px solid black;
+    }
+    .main_list li{
+        float:left;
+        width: 25%;
+        box-sizing: border-box;
+        text-align: center;
+        border: 1px solid black;
+        font-size: 30px;
+        padding: 10px 0px
+    }
+
+    .main_object{
+        width: 20%;
+        height: 20%;
+        float: left;
+    }
+    .se_list{
+        width: 100%;
+        height: 914px;
+    }
+    .seli img{
+    margin: 13px 0;
+    width:64px;
+    }
+
+.se_list ul{
+height: 100%;
+}    
+    
+  .item .seli {
+  padding-left: 30px;
+  }
+    .DB,.Hu,.item{
+        overflow-y:auto;
+        height: 900px;
+        padding:15px 15px 0 15px;
+    }
+
+    .right_dd{
+        float: right;
+    }
+    .Hu .right_dd{
+        position:relative;
+        right: 50%;
+    }
+    .item .right_dd{
+   	box-sizing: border-box;
+       outline: 1px solid black;
+       
+    }    
+  .img_class{/*전적검색창 챔피언 초상화*/
+    float: left;
+    height: 100%;
+    } 
+    .game_main_in{
+    height: 93%;
+    box-sizing: border-box;
+    }
+	.rjatorckd{
+	width: 80%;
+	height:7%;
+	box-sizing: border-box;
+	}    
+  .wjswjr{
+  height: 10%;
+  }   
+  
+  .vkvus {
+    border-radius: 50%;
+    overflow: hidden;
+    background-color: rgb(34, 34, 34);
+    opacity: 1;
+    border: 1px solid rgb(187, 152, 52);
+    box-sizing: border-box;
+}
+  
+  

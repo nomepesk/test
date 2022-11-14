@@ -525,7 +525,6 @@ function scr_change_list(index)
 				
 					<div class="timeline"></div>
 					<div>asdasd</div>
-					<div>asdadasd</div>
 				</div>
 				<div class="item" style="display: none;">
 					<ul>
